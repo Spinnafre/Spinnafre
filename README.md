@@ -9,7 +9,7 @@
 <img style="margin: 0 auto" src="https://media2.giphy.com/media/QYkX9IMHthYn0Y3pcG/200_d.gif" height="200">
 
 
-- 👷 I’m System Analytics Software 
+- 👷 I’m Systems Analyst
 
 
 
