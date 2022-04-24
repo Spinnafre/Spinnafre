@@ -17,3 +17,5 @@
 
 ![Spinnafre Status](https://github-readme-stats.vercel.app/api?username=Spinnafre&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Spinnafre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/Spinnafre"><img src="https://github.com/Spinnafre/Spinnafre/blob/main/devcard.svg" width="400" alt="Spinnafre's Dev Card"/></a>
