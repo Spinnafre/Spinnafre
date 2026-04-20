@@ -181,6 +181,9 @@ Skills: `Web Development` `Game Development` `Data Structure` `Algorithms`
 <a href="https://github.com/Spinnafre/wallet-api">
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=wallet-api&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="WalletAPI">
 </a>
+<a href="https://github.com/Spinnafre/UFC-API">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=UFC-API&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="UFC-API">
+</a>
 <a href="https://github.com/Spinnafre/Pipefy-simple-Clone">
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=Pipefy-simple-Clone&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Pipefy Clone">
 </a>
@@ -194,9 +197,6 @@ Skills: `Web Development` `Game Development` `Data Structure` `Algorithms`
   </a>
   <a href="https://github.com/Spinnafre/Socket-Node">
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=Socket-Node&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Socket-Node">
-  </a>
-  <a href="https://github.com/Spinnafre/Coronavirus-Tracker">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=Coronavirus-Tracker&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Coronavirus-Tracker">
   </a>
   <a href="https://github.com/Spinnafre/Vue-portfolio">
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=Vue-portfolio&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Vue-portfolio">
