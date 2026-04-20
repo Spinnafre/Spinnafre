@@ -180,7 +180,10 @@ Skills: `Web Development` `Game Development` `Data Structure` `Algorithms`
 <p>
 <a href="https://github.com/Spinnafre/wallet-api">
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=wallet-api&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="WalletAPI">
-  </a>
+</a>
+<a href="https://github.com/Spinnafre/Pipefy-simple-Clone">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=Pipefy-simple-Clone&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Pipefy Clone">
+</a>
   <a href="https://github.com/Spinnafre/Socket-Game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=Socket-Game&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Socker I/O game"></a>
   <a href="https://github.com/Spinnafre/AnimaisUFC/tree/react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Spinnafre&repo=AnimaisUFC&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Animais UFC"></a>
   <a href="https://github.com/Spinnafre/DAVICOMMERCE">
